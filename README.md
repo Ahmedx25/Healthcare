@@ -1,10 +1,10 @@
-# 🏥 Healthcare Intelligence & Analytics System
+#  Healthcare Intelligence 
 
 An end-to-end Healthcare Analytics platform transforming multi-source relational clinical data into actionable operational and financial insights using **SQL Server, Power Query, Star Schema Modeling, Advanced DAX, and Power BI**.
 
 ---
 
-## 📊 Executive Summary & Key Metrics
+##  Executive Summary & Key Metrics
 
 * **Total Revenue Analyzed:** $2.22M
 * **Total Patients Tracked:** 500 Patients (408 Billed)
@@ -14,7 +14,7 @@ An end-to-end Healthcare Analytics platform transforming multi-source relational
 
 ---
 
-## 🛠️ Architecture & Pipeline
+##  Architecture & Pipeline
 
 1. **Relational Database & SQL Modeling:** Designed normalized schemas for Patients, Doctors, Admissions, Appointments, Labs, and Billing.
 2. **Data Transformation (Power Query):** Handled duplicates, standardized dates, and unpivoted bill item line-details.
@@ -23,12 +23,13 @@ An end-to-end Healthcare Analytics platform transforming multi-source relational
 
 ---
 
-## 🖥️ Dashboard Overview
+##  Dashboard Overview
 
 ### 1. Executive Overview
 Focuses on overall hospital performance, revenue streams, insurance vs. out-of-pocket payments, and monthly financial growth.
 
-![Executive Overview](<img width="1920" height="1200" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/9c51bd6b-7d28-4955-b4a6-a591ace16c8d" />
+![Executive Overview](<img width="1920" height="1200" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/ade99285-5558-49ba-820b-b9878a83a774" />
+
 )
 
 ### 2. Admissions & Operations Overview
@@ -48,7 +49,7 @@ Analyzes medication sales performance, top prescribed drugs, unit sales, and mon
 
 ---
 
-## 💡 Key Business Insights & Recommendations
+##  Key Business Insights & Recommendations
 
 * **Capacity Management:** High ICU utilization during Q3 indicates a need for dynamic bed allocation.
 * **Diagnostics Risk Alert:** ~35% of lab results returned as "Critical", prompting an automated alert protocol for attending doctors.
