@@ -1,5 +1,9 @@
 #  Healthcare Intelligence 
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-2C2C32?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 An end-to-end Healthcare Analytics platform transforming multi-source relational clinical data into actionable operational and financial insights using **SQL Server, Power Query, Star Schema Modeling, Advanced DAX, and Power BI**.
 
 ---
