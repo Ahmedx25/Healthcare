@@ -28,7 +28,7 @@ An end-to-end Healthcare Analytics platform transforming multi-source relational
 ### 1. Executive Overview
 Focuses on overall hospital performance, revenue streams, insurance vs. out-of-pocket payments, and monthly financial growth.
 
-Executive Overview(<img width="1920" height="1200" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/ade99285-5558-49ba-820b-b9878a83a774" />
+Executive Overview(executive.png>
 
 )
 
