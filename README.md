@@ -28,9 +28,9 @@ An end-to-end Healthcare Analytics platform transforming multi-source relational
 ### 1. Executive Overview
 Focuses on overall hospital performance, revenue streams, insurance vs. out-of-pocket payments, and monthly financial growth.
 
-Executive Overview(executive.png>
+Executive Overview([executive.png>](https://github.com/Ahmedx25/Healthcare/blob/b9c89ae0b68929e942d20648017863328dbe1fdf/executive.png)
 
-)
+
 
 ### 2. Admissions & Operations Overview
 Monitors patient admission trends, bed occupancy, room types (ICU, Standard, Private), and average length of stay (ALOS).
